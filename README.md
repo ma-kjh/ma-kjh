@@ -21,7 +21,7 @@ My name is Jeonghyeon Kim, and I am a Ph.D. student in Data Science at <a href='
 +  ✔️ Responsible worker.
 #  👨‍💻 AI Safety and Interpretability.
 -  🚀 LLM and LVLM.
-!  ✨ If you can imagine it, you can program it. 
+!  ✨ Energy-Based-Models. 
 @@ 💻Solving problems.@@
 ```
 
