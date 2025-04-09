@@ -17,7 +17,7 @@ My name is Jeonghyeon Kim, and I am a Ph.D. student in Data Science at <a href='
 
   <!-- Description -->
 ```diff
-🛠️ +3 years of Ph.D. Student.
+🛠️ +1 years of Ph.D. Student.
 +  ✔️ Responsible worker.
 #  👨‍💻 AI Safety and Interpretability.
 -  🚀 LLM and LVLM.
