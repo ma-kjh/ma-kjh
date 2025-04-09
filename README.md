@@ -35,6 +35,8 @@ My name is Jeonghyeon Kim, and I am a Ph.D. student in Data Science at <a href='
         <td>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python logo" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" alt="PyTorch logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" alt="TensorFlow logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java logo" />
         </td>
     </tr>
     <tr>
@@ -46,6 +48,7 @@ My name is Jeonghyeon Kim, and I am a Ph.D. student in Data Science at <a href='
           <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="50" alt="Visual Studio logo" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git logo" />
           <img src="https://img.icons8.com/fluent/48/000000/github.png" width="55" alt="Github logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" alt="Oracle logo" />
         </td>
     </tr>
 </table>
