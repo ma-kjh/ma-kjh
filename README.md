@@ -27,6 +27,11 @@ My name is Jeonghyeon Kim, and I am a Ph.D. student in Data Science at <a href='
 
   <!-- Skills and Tools-->
 ---
+<details align="center">
+  <summary>
+    <b><samp> 📚 View my Skills & Tools</samp></b>
+  </summary>
+  <samp>
 <table align="center">
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
@@ -52,6 +57,8 @@ My name is Jeonghyeon Kim, and I am a Ph.D. student in Data Science at <a href='
         </td>
     </tr>
 </table>
+ </samp>
+</details>
 
 
   <!-- Credits -->
