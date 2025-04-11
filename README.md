@@ -61,6 +61,5 @@ My name is Jeonghyeon Kim, and I am a Ph.D. student in Data Science at <a href='
 </details>
 
 
-  <!-- Credits -->
-------
-Credit: [dante-barreda](https://github.com/dante-barreda)
+  <!-- Credit: [dante-barreda](https://github.com/dante-barreda) -->
+
