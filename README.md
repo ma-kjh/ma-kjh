@@ -20,8 +20,9 @@ My name is Jeonghyeon Kim, and I am a Ph.D. student in Data Science at <a href='
 🛠️ +3 years of MS/Ph.D. Student.
 +  ✔️ Responsible worker.
 #  👨‍💻 AI Safety and Interpretability.
--  🚀 LLM and LVLM.
-!  ✨ Energy-Based-Models. 
+-  🚀 Out-of-Distribution Detection.
+!  ✨ Vision-Langauge Models.
+&  🙈 LLM Unlearning. 
 @@ 💻 Solving problems. @@
 ```
 
